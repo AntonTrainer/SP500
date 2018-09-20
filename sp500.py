@@ -1,6 +1,5 @@
 """
-Created on Thu Oct 05 16:44:14 2017
-
+Using data from Yahoo! Finance data 
 @author: ATrain
 """
 import matplotlib.pyplot as plt
