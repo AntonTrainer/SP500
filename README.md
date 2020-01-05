@@ -2,7 +2,7 @@
 ## small practice scripts doing all kinds of random things
 
 
-*sp500.py* downloads and visualizes S&P 500 data
+*sp500.py* downloads and graphs SP500 data using pandas_datareader.get_data_yahoo
 
 *rw_practice.py* generates a random walk using a line plot theoretically could simulate molecular motion
 
