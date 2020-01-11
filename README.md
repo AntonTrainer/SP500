@@ -10,5 +10,6 @@
     *random_walk.py* is a module that builds the random walk that *rand_walk_visual.py* displays
 
 *die.py* creates a a 6 sided die with a class 
+   
    *die_visual.py* calls Die from *die.py* and generates a list of frequencies of the results of 1000 rolls and graphs them in a .svg file 
    *one_D6_visual.svg* is the histogram that is created in *die_visual.py* 
