@@ -13,4 +13,5 @@
 *die_visual.py* calls Die from *die.py* and generates a list of frequencies of the results of 1000 rolls and graphs them in a .svg file   
    *one_D6_visual.svg* is the histogram that is created in *die_visual.py* 
 
-*multi_die_visul.py* same as *die.py* but rolls 2 dice and adds their scores and outputs a histogram in *two_D6_visual.svg* as you can see, the histogram of one million rolls is a nearly perfect normal distribution with a mean of 7
+*multi_die_visul.py* same as *die.py* but rolls 2 dice and adds their scores and outputs a histogram in *two_D6_visual.svg* as you can see, the histogram of one million rolls is a nearly perfect normal distribution with a median of about 7
+
